@@ -1,1 +1,1 @@
-# sia_git_npm_activity
+# System Integration & Architechture: GIT and NPM Activity
